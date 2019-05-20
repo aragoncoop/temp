@@ -58,7 +58,7 @@ We vote. At the end of the week Cooperative members will review work that has be
 
 ### The Temporary Aragon Cooperative DAO is live
 
-As stated, any proposal to the Aragon Cooperative DAO will take 7 days to be approved or denied. We need to engage, communicate, and make decisions faster than that. With this in mind, I've deploying a Rinkeby DAO. This DAO will serve as a coordination tool to help us make decisions. It is completely opt-in and voluntary. It will not be able to move funds. It will not be binding beyond a social contract. It will, however, allow us to start using it immediately. We can test it out for a week or two and then, if we want, vote to move this process to the Aragon Cooperative mainnet DAO.
+As stated, any proposal to the Aragon Cooperative DAO will take 7 days to be approved or denied. We need to engage, communicate, and make decisions faster than that. With this in mind, I've deploying a Rinkeby DAO. This DAO will serve as a coordination tool to help us make decisions. It is completely opt-in and voluntary. It will not be able to move funds. It is a merely coordination tool that helps to coordinate around a social contract. It will, however, allow us to start using it immediately. We can test it out for a week or two and then, if we want, vote to move this process to the Aragon Cooperative mainnet DAO.
 
 The DAO parameters are as follows:
 - support: 66%
@@ -70,10 +70,9 @@ These parameters imply that most people who self select to use this this model w
 Membership will be dead simple. If you are a [member](https://github.com/aragoncoop/membership/) of the Aragon Cooperative you are a member of the Aragon Cooperative Temporary DAO. This is already done. 
 
 This DAO operates on trust and social contracts. These are the expectations of membership:
-- voting will only happen on the weekends
-- votes created Monday through Friday will be viewed as illegitimate.
-- votes to approve compensation for work done in the Aragon Cooperative Temporary DAO will be mirrored on the Aragon Cooperative mainnet DAO
-- if you voted in an ACL vote to compensate work, you will also vote the same way on the mainnet DAO
+- Voting will only happen on the weekends.
+- Votes created Monday through Friday will be viewed as illegitimate.
+- Votes to approve compensation for work done in the Aragon Cooperative Temporary DAO will be mirrored on the Aragon Cooperative mainnet DAO. If you voted in an ACL vote to compensate work, you will also vote the same way on the mainnet DAO. This way the group can reach consensus over the weekend and move into the week with clear objectives and expectations even if we still have to wait for the mainnet DAO to close it's 7 day window.
 
 The Temporary Aragon Cooperative DAO can be found here:
 - https://rinkeby.aragon.org/#/temp.aragonid.eth/
