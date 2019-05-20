@@ -1,4 +1,8 @@
-# Temporary Aragon Cooperative DAO Workflow
+<h1 align='center'>
+  <a href='https://rinkeby.aragon.org/#/temp.aragonid.eth/'>
+    Temporary Aragon Cooperative DAO Workflow
+  </a>
+</h1>
 
 This repo has 1 goal: to help us approve, execute, and compensate work. We can build from there.
 
@@ -70,7 +74,7 @@ This DAO operates on trust and social contracts. These are the expectations of m
 - if you voted in an ACL vote to compensate work, you will also vote the same way on the mainnet DAO
 
 The Temporary Aragon Cooperative DAO can be found here:
-- https://rinkeby.aragon.org/#/temp.aragonid.eth/0xf4b378675398b204b960d22d035bddc5f094cb6e
+- https://rinkeby.aragon.org/#/temp.aragonid.eth/
 
 <br>
 
