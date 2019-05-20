@@ -28,7 +28,7 @@
 
 ### How do we decide who does what?
 
-We vote. Any Aragon Cooperative member can submit a proposal to do work Monday through Friday. The way to submit work is to create an Issue in this repo. The [Example]() Issue shows what this looks like. It will include:
+We vote. Any Aragon Cooperative member can submit a proposal to do work Monday through Friday. The way to submit work is to create an Issue in this repo. The [Example](https://github.com/aragoncoop/temp/issues/1) Issue shows what this looks like. It will include:
 - the AGP-40 deliverable that you’d like to work on
 - the steps you’re going to take to move us towards shipping that deliverable
 - the amount of time you think that’s going to take
@@ -43,7 +43,7 @@ On the weekend Aragon Cooperative members will vote on which work requests they 
 
 ### How do we verify work that has been done?
 
-We vote. At the end of the week Aragon Cooperative members who did work that qualifies for funding will present a report to the group. This report will be an extension of the original work request proposal for that Issue. The [Example]() Issue shows what this looks like. It will include:
+We vote. At the end of the week Aragon Cooperative members who did work that qualifies for funding will present a report to the group. This report will be an extension of the original work request proposal for that Issue. The [Example](https://github.com/aragoncoop/temp/issues/1) Issue shows what this looks like. It will include:
 - the AGP-40 deliverable that you worked on
 - the steps you actually took to move us towards shipping that deliverable and where we are now as a result
 - the amount of time it actually took
