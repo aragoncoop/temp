@@ -4,7 +4,9 @@
   </a>
 </h1>
 
-This repo has 1 goal: to help us approve, execute, and compensate work. We can build from there.
+<p align='center'>
+  This repo has 1 goal: to help us approve, execute, and compensate work. We can build from there.
+</p>
 
 <br>
 
