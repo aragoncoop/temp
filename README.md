@@ -37,7 +37,9 @@ Cooperative members are encouraged to comment with feedback and suggestions on a
 
 When rough consensus has been reached that a "work proposal" Issue is something that the Aragon Cooperative wants to support, it should be submitted for a vote. This involves changing to tag to "pending" and creating a vote in the Aragon Cooperative DAO. The title of this vote in the DAO should be: the tag of the Issue ("work proposal"), the Issue#, and the title of the Issue. Aragon Cooperative members can then vote on if they think this "work proposal" should be eligible for funding. This vote is not a guarantee of funding. This is a vote to determine if the goal, scope, timeline, and member assigned to the proposal is something the Cooperative approves. If so, then that "work proposal" Issue will be eligible to request compensation when it is finished. This will allow all Cooperative members do work that has clear goals and expectations.
 
-If a "work proposal" Issue is approved by the Aragon Cooperative, change the tag on the issue from "work proposal" to "approved."
+Once a vote has been created, create a comment in the Issue with the vote#. 
+
+If a "work proposal" Issue is approved by the Aragon Cooperative, add the tag of "approved" to the "work proposal" Issue
 
 <br>
 
@@ -51,11 +53,17 @@ We vote. Aragon Cooperative members who did work that qualifies for funding will
 
 Once a work report has been added to the Issue, add an additional tag of "request for compensation" to the Issue. Then create a vote for your "request for compensation." This vote in the Aragon Cooperative DAO will include: the tag of the Issue "request for compensation", the Issue #, the name of the Issue. 
 
+Once a vote has been created, create a comment in the Issue with the vote#. 
+
 <br>
 
 ### How do we compensate work that has been done?
 
 We vote. Cooperative members will review Issues tagged "request for compensation" and vote to release funds for that work. This means that funding is at the discretion of the Cooperative. If you did your best, but encountered an unknown roadblock the Cooperative can still choose to compensate you for your time. If you wasted time the Cooperative can also choose not to fund that time. If more work needs to be done, or the work was not satisfactory. the Cooperative can deny your funding request but suggest that you fix X, Y, or Z and then re-submit your request. It’s all up to the community.
+
+If the vote passed, comment and close the Issue.
+
+If the vote did not pass, ask the Aragon Cooperative why it did not pass and if there is anything you can do that would make it pass. 
 
 <br>
 
