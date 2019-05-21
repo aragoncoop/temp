@@ -1,7 +1,5 @@
 <h1 align='center'>
-  <a href='https://rinkeby.aragon.org/#/temp.aragonid.eth/'>
-    Temporary Aragon Cooperative DAO Workflow
-  </a>
+  Temporary Aragon Cooperative Workflow
 </h1>
 
 <p align='center'>
@@ -28,61 +26,55 @@
 
 ### How do we decide who does what?
 
-We vote. Any Aragon Cooperative member can submit a proposal to do work Monday through Friday. The way to submit work is to create an Issue in this repo. The [Example](https://github.com/aragoncoop/temp/issues/1) Issue shows what this looks like. It will include:
+We vote. Any Aragon Cooperative member can submit a proposal to do work. To submit a proposal to do work, create an Issue in this repo, assign it to yourself, and tag it as a "work proposal". The [Example](https://github.com/aragoncoop/temp/issues/1) Issue shows what this looks like. Each work proposal will include:
 - the AGP-40 deliverable that you’d like to work on
 - the steps you’re going to take to move us towards shipping that deliverable
 - the amount of time you think that’s going to take
 
-If a Cooperative member feels like there is work that should be done, but does not have the time or expertise to do it they can still create an Issue with the proposal. This proposal will be tagged "open" and any Cooperative members can self select to assign the issue to themselves.
+If a you feel like there is work that should be done, but you do not have the time or expertise to do it you can still create an Issue proposing this work. This Issue will be tagged "work proposal" and "open" to indicate that any Cooperative member can assign the issue to themselves. If a Cooperative member wants to work on the Issue they can assign it to themselves, remove the "open" tag, and present it to the Cooperative for approval to start work.
 
-Throughout the week Cooperative members can comment on proposals and modify them within the GitHub Issue comments. 
+Cooperative members are encouraged to comment with feedback and suggestions on any Issues tagged "work proposal." It is expected that these proposals will be modified as a result of community feedback.
 
-On the weekend Aragon Cooperative members will vote on which work requests they want to approve for potential funding. This will allow people to start the week with clear goals and expectations.
+When rough consensus has been reached that a "work proposal" Issue is something that the Aragon Cooperative wants to support, it should be submitted for a vote. This involves changing to tag to "pending" and creating a vote in the Aragon Cooperative DAO. The title of this vote in the DAO should be: the tag of the Issue ("work proposal"), the Issue#, and the title of the Issue. Aragon Cooperative members can then vote on if they think this "work proposal" should be eligible for funding. This vote is not a guarantee of funding. This is a vote to determine if the goal, scope, timeline, and member assigned to the proposal is something the Cooperative approves. If so, then that "work proposal" Issue will be eligible to request compensation when it is finished. This will allow all Cooperative members do work that has clear goals and expectations.
+
+If a "work proposal" Issue is approved by the Aragon Cooperative, change the tag on the issue from "work proposal" to "approved."
 
 <br>
 
 ### How do we verify work that has been done?
 
-We vote. At the end of the week Aragon Cooperative members who did work that qualifies for funding will present a report to the group. This report will be an extension of the original work request proposal for that Issue. The [Example](https://github.com/aragoncoop/temp/issues/1) Issue shows what this looks like. It will include:
+We vote. Aragon Cooperative members who did work that qualifies for funding will share their work with the group. They will do this by adding a report in the comments section of their "approved" Issue. The [Example](https://github.com/aragoncoop/temp/issues/1) Issue shows what this looks like. The comment on the Issue will include:
 - the AGP-40 deliverable that you worked on
 - the steps you actually took to move us towards shipping that deliverable and where we are now as a result
 - the amount of time it actually took
+- amount of billable time being requested
+
+Once a work report has been added to the Issue, add an additional tag of "request for compensation" to the Issue. Then create a vote for your "request for compensation." This vote in the Aragon Cooperative DAO will include: the tag of the Issue "request for compensation", the Issue #, the name of the Issue. 
 
 <br>
 
 ### How do we compensate work that has been done?
 
-We vote. At the end of the week Cooperative members will review work that has been done and vote to release funds for that work. This means that funding is at the digression of the Cooperative. If you did your best, but encountered an unknown roadblock the Cooperative can still choose to compensate you for your time. If you wasted time the Cooperative can also choose not to fund that time. It’s really all up to the community.
+We vote. Cooperative members will review Issues tagged "request for compensation" and vote to release funds for that work. This means that funding is at the discretion of the Cooperative. If you did your best, but encountered an unknown roadblock the Cooperative can still choose to compensate you for your time. If you wasted time the Cooperative can also choose not to fund that time. If more work needs to be done, or the work was not satisfactory. the Cooperative can deny your funding request but suggest that you fix X, Y, or Z and then re-submit your request. It’s all up to the community.
 
 <br>
 
-### The Temporary Aragon Cooperative DAO is live
+### This is now.
 
-As stated, any proposal to the Aragon Cooperative DAO will take 7 days to be approved or denied. We need to engage, communicate, and make decisions faster than that. With this in mind, I've deployed a Rinkeby DAO. This DAO will serve as a coordination tool to help us make decisions. It is completely opt-in and voluntary. It will not be able to move funds. It will, however, allow us to start using it immediately. We can test it out for a week or two and then, if we want, vote to move this process to the Aragon Cooperative mainnet DAO.
+This proposal will work now using no additional tooling.
 
-The DAO parameters are as follows:
-- support: 66%
-- quorum: 33%
-- duration: 48hrs
+<br>
 
-These parameters imply that most people who self select to use this this model will share similar goals and thus be able to achieve a 66% support threshold. Furthermore, since the process is opt-in and non-binding, social consensus is essential for votes to be followed through on. Discussions will happen during the week and members will check in over the weekend to vote.
+### How do we modify this protocol?
 
-Membership will be dead simple. If you are a [member](https://github.com/aragoncoop/membership/) of the Aragon Cooperative you are a member of the Aragon Cooperative Temporary DAO. This is already done. 
-
-This DAO operates on trust and social contracts. These are the expectations of membership:
-- Voting will only happen on the weekends.
-- Votes created Monday through Friday will be viewed as illegitimate.
-- Votes to approve compensation for work done in the Aragon Cooperative Temporary DAO will be mirrored on the Aragon Cooperative mainnet DAO. If you voted in an ACL vote to compensate work, you will also vote the same way on the mainnet DAO. This way the group can reach consensus over the weekend and move into the week with clear objectives and expectations even if we still have to wait for the mainnet DAO to close it's 7 day window.
-
-The Temporary Aragon Cooperative DAO can be found here:
-- https://rinkeby.aragon.org/#/temp.aragonid.eth/
+We vote. To suggest changes to this protocol, any Cooperative member can create an Issue and tag it "meta proposal." Comments and feedback are encouraged and the proposal is expected to be modified accordingly. When rough consensus is achieved that the "meta proposal" is something that the Aragon Cooperative supports, create a vote in the Aragon Cooperative DAO. The vote will include: the tag of the Issue ("meta proposal"), the Issue #, the name of the Issue. If the vote passes the "meta proposal" can be enacted.
 
 <br>
 
 ### Notes
 
-The original proposal and discussion for this model can be found [here](https://forum.aragon.org/t/proposal-for-a-temporary-aragon-cooperative-workflow/966)
+The original proposal and discussion for this model can be found [here](https://forum.aragon.org/t/proposal-for-a-temporary-aragon-cooperative-workflow/966).
 
-While setting up the temp DAO I granted my account permission to manage tokens so that I could create them for all Aragon Cooperative members. Now that I'm not the majority token holder I cannot revoke that permission from myself without a vote from the community. There are open votes for this in the DAO now.
+There is also a Rinkeby pre-cursor to this workflow that can be found [here](https://github.com/burrrata/temp).
 
 <br>
